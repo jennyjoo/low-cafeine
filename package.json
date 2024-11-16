@@ -1,6 +1,6 @@
 {
   "name": "low-cafeine",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "utility that needs low cafeine consumption",
   "main": "dist/index.js",
   "types": "index.d.js",
@@ -11,8 +11,8 @@
     "clean": "ram, -rf dist",
     "list": "tsc"
   },
-  "jest" : {
-    "preset" : "ts-jest"
+  "jest": {
+    "preset": "ts-jest"
   },
   "repository": {
     "type": "git",
